@@ -32,9 +32,17 @@ pip install openai langchain gradio
 
 1. Clone o repositório ou baixe os arquivos do projeto.
 
+```bash
+git clone https://github.com/danielquintaos/mod8-pon4
+```
+
 2. Substitua 'your_api_key' pela sua chave API da OpenAI no script do chatbot.
 
 3. Execute o script Python para iniciar a interface do chatbot.
+
+```
+python app.py
+```
 
 
 ## Interface
@@ -52,3 +60,8 @@ Após a execução, uma interface gráfica será aberta no navegador. Os usuári
 ## Personalização
 
 O sistema pode ser customizado para atender a diferentes necessidades, ajustando o prompt do sistema, a interface gráfica, e o comportamento de resposta.
+
+
+## Demonstração
+
+Vídeo: https://youtu.be/MJDN83N6YdI
